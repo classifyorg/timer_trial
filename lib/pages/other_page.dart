@@ -13,7 +13,7 @@ class _OtherPageState extends State<OtherPage> {
     return Container(
       child: Center(
         child: Text(
-          "<Other Page>",
+          "00:00",
           style: TextStyle(
             fontSize: 20,
             color: Colors.white,
